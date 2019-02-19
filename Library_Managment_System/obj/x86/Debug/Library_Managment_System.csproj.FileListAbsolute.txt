@@ -1,0 +1,13 @@
+d:\profiles\arehani\documents\visual studio 2010\projects\Library_Managment_System\Library_Managment_System\bin\Debug\Library_Managment_System.exe
+d:\profiles\arehani\documents\visual studio 2010\projects\Library_Managment_System\Library_Managment_System\bin\Debug\Library_Managment_System.pdb
+d:\profiles\arehani\documents\visual studio 2010\projects\Library_Managment_System\Library_Managment_System\obj\x86\Debug\Library_Managment_System.Properties.Resources.resources
+d:\profiles\arehani\documents\visual studio 2010\projects\Library_Managment_System\Library_Managment_System\obj\x86\Debug\Library_Managment_System.csproj.GenerateResource.Cache
+d:\profiles\arehani\documents\visual studio 2010\projects\Library_Managment_System\Library_Managment_System\obj\x86\Debug\Library_Managment_System.exe
+d:\profiles\arehani\documents\visual studio 2010\projects\Library_Managment_System\Library_Managment_System\obj\x86\Debug\Library_Managment_System.pdb
+d:\profiles\arehani\documents\visual studio 2010\projects\Library_Managment_System\Library_Managment_System\obj\x86\Debug\Library_Managment_System.LMS_Home.resources
+d:\profiles\arehani\documents\visual studio 2010\projects\Library_Managment_System\Library_Managment_System\obj\x86\Debug\Library_Managment_System.Member_Maintenance.resources
+d:\profiles\arehani\documents\visual studio 2010\projects\Library_Managment_System\Library_Managment_System\obj\x86\Debug\Library_Management_System.Book_Availability.resources
+d:\profiles\arehani\documents\visual studio 2010\projects\Library_Managment_System\Library_Managment_System\obj\x86\Debug\Library_Management_System.Book_Issue.resources
+d:\profiles\arehani\documents\visual studio 2010\projects\Library_Managment_System\Library_Managment_System\obj\x86\Debug\Library_Management_System.Book_Lost.resources
+d:\profiles\arehani\documents\visual studio 2010\projects\Library_Managment_System\Library_Managment_System\obj\x86\Debug\Library_Management_System.Book_Return.resources
+d:\profiles\arehani\documents\visual studio 2010\projects\Library_Managment_System\Library_Managment_System\obj\x86\Debug\Library_Managment_System.Maintain_Books.resources
